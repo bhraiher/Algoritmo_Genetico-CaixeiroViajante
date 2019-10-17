@@ -1,0 +1,19 @@
+nome da cidade
+
+individuo: matriz,cromossomo,nota
+
+Problema: Avaliação, mutação, escolha dos pais.
+
+
+[X] - Definir distância das cidades
+[X] - Gera cromossomos e populações
+[X] - Avalia os cromossomos 
+[X] - Escolher pais
+[X] - Fazer reprodução por recombinação universal
+[X] - Fazer a Orientação à objetos
+	[X] - Eliminar os pais e fazer uma nova população com os filhos 
+	      Exemplo: Tem 20 individuos, 10 casais geram novos 20 filhos através de reprodução, e assim por diante.
+	[X] - Definir quantas gerações
+
+
+ 
