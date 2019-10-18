@@ -1,5 +1,7 @@
 # Algoritmo_Genetico-CaixeiroViajante
 Algoritmo para resolver o problema do Caixeiro viajante.
+
+
 Foi utilizado para desenvolver a interface "Anaconda" para elaborar a solução. Foi sugerido pelo professor por possuir grande maioria das bibliotecas usadas para inteligência artificial já baixadas. 
 
 Individuo: matriz,cromossomo,nota.
